@@ -1,3 +1,5 @@
 .DS_Store
 modelo_fasttext_gensim.model
 modelo_fasttext_gensim.model.wv.vectors_ngrams.npy
+dataset.csv
+dataset_corregido.csv
